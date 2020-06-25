@@ -14,6 +14,8 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <p>
             Edit <code>src/App.js</code> and save to reload.
+            I'm Agnes, boss of Encos.
+            I'm to be a billianare.
           </p>
           <a
             className="App-link"
